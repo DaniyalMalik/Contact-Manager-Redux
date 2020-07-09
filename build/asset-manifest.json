@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Contact-Manager-Redux/static/css/main.5dd82d03.chunk.css",
+    "main.js": "/Contact-Manager-Redux/static/js/main.e7aedc1e.chunk.js",
+    "main.js.map": "/Contact-Manager-Redux/static/js/main.e7aedc1e.chunk.js.map",
+    "runtime-main.js": "/Contact-Manager-Redux/static/js/runtime-main.b5e6c87c.js",
+    "runtime-main.js.map": "/Contact-Manager-Redux/static/js/runtime-main.b5e6c87c.js.map",
+    "static/js/2.a86e6f86.chunk.js": "/Contact-Manager-Redux/static/js/2.a86e6f86.chunk.js",
+    "static/js/2.a86e6f86.chunk.js.map": "/Contact-Manager-Redux/static/js/2.a86e6f86.chunk.js.map",
+    "index.html": "/Contact-Manager-Redux/index.html",
+    "precache-manifest.91533eeee9adec0f86f3c17434a42b95.js": "/Contact-Manager-Redux/precache-manifest.91533eeee9adec0f86f3c17434a42b95.js",
+    "service-worker.js": "/Contact-Manager-Redux/service-worker.js",
+    "static/css/main.5dd82d03.chunk.css.map": "/Contact-Manager-Redux/static/css/main.5dd82d03.chunk.css.map",
+    "static/js/2.a86e6f86.chunk.js.LICENSE.txt": "/Contact-Manager-Redux/static/js/2.a86e6f86.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b5e6c87c.js",
+    "static/js/2.a86e6f86.chunk.js",
+    "static/css/main.5dd82d03.chunk.css",
+    "static/js/main.e7aedc1e.chunk.js"
+  ]
+}
